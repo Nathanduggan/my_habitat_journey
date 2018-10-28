@@ -6,6 +6,14 @@ body {
     background-color: #1FE288;
 }
 
+h1,
+h2,
+h3,
+h4 {
+    margin: 0;
+    
+}
+
 .nav {
     font-family: "Exo" sans-serif;
     font-weight: 300;
@@ -16,9 +24,11 @@ body {
     color: #07A2FE;
     
 }
-.donate {
+.change {
     position: relative;
     text-align: center;
+    margin-top: 20px;
+    margin-bottom: 20px;
     color: #fafafa;
 }
 
@@ -26,6 +36,15 @@ body {
     position: relative;
     text-align: center;
     color: white;
+    
+}
+.main {
+    color: #fafafa;
+    display: block;
+    text-align: center;
+    margin-left: auto;
+    margin-right: auto;
+    padding-top: 20px;
     
 }
 
@@ -52,7 +71,7 @@ body {
     font-family: "Exo", sans-serif;
     font-weight: 600;
      font-size: 17px;
-    color: white;
+    color: #fafafa;
     margin-top: 15px;
     margin-bottom: 10px;
 }
@@ -70,7 +89,7 @@ body {
     font-family: "Exo", sans-serif;
     font-weight: 300;
     color: #fafafa;
-    
+    margin-top: 20px;
 }
 
 .header-subhead {
@@ -79,38 +98,58 @@ body {
     font-size: 15px;
 }
 
-section {
-   
-   
-}
+
 
 section p {
     color: #fafafa;
 }
 
-.box1 {
-  background-color: #26C6DA;
-    width: 1000px;
-    border: 10px solid black;
-    padding: 25px;
-    margin: 25px;
-}
 
-.contacts {
+
+.contact  {
     font-family: "Exo", sans-serif;
     font-weight: 400;
     font-size: 15px;
+    padding-left: 30px;
+    color: #fafafa;
+    padding-bottom: 20px;
+   
+}
+
+.contacts a {
+    font-family: "Exo", sans-serif;
+    font-weight: 300;
+    font-size: 20px;
+    color: #fafafa;
+    text-align: center;
+}
+
+
+.contacts2 {
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
     color: #fafafa;
     padding-left: 35px;
-    padding-top: 30px;
+    padding-top: 10px;
+    padding-bottom: 20px;
 }
+
+
+
+
 
 .list-block a {
     font-family: "Exo", sans-serif;
     font-weight: 400;
     font-size: 20px;
     color: #fafafa;
+    margin-bottom: 20px;
 }
+
+
+    
+
 /*-----------------------------------Social*/
 .fa {
   padding: 20px;
@@ -219,19 +258,21 @@ section p {
     position: relative;
     text-align: center;
     color: white;
-    width: 100%;
+   ;
     padding-bottom: 20px;
 }
 
 
-.centered {
-    position: absolute;
-    top: 50%;
-    left: 50%;
-    transform: translate(-50%, -50%);
-}
 
 /*-----------------------------------Logo's & Images*/
+
+.big-photo {
+    padding-right: 20px;
+}
+
+.small-photo {
+    padding-bottom: 20px;
+}
 .nav {
     font-family: "Exo" sans-serif;
     font-weight: 300;
@@ -259,9 +300,69 @@ section p {
  
 footer {
     background-color: #000;
+    width: 100%;
    
 }
  
   /*------------------------------------------Footer*/
+  
+  /*------------------------------------------Media Queries*/
+  
+  @media(max-width: 767px) {
+      .header {
+          text-align: center;
+          margin-top: 20px;
+      }
+  }
+  
+  @media(max-width: 767px) {
+      .header-subhead {
+          margin-left: 40px;
+      }
+  }
+  
+  @media(min-width: 992px) {
+      footer {
+          width: 100%;
+      }
+  }
+  
+  @media(min-width: 767px) {
+      .contacts2 {
+          margin-left: 20px;
+      }
+  }
+  
+  @media(max-width: 767px) {
+      .contacts {
+          float: left ;
+      }
+  }
+  
+  @media(min-width: 767px) {
+      .logo3  {
+          padding-right: 20px;
+      }
+  }
+  
+    @media(min-width: 992px) {
+      .logo3  {
+          padding-right: 20px;
+      }
+  }
+  
+  @media(min-width: 992px) {
+      .big-photo {
+          margin-right: 30px;
+      }
+  }
+  
+
+  
+ 
+  
+
+  /*------------------------------------------Media Queries*/
+
 
 
