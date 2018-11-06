@@ -5,9 +5,18 @@
 
 
 
-body {
+article {
     background-color: #1FE288;
+    border-radius: 10%;
+    
 }
+
+body {
+    
+    background-color: #ECF0F1;
+    
+}
+
 
 
 
@@ -93,6 +102,17 @@ h4 {
     font-family: "Exo", sans-serif;
     font-weight: 600;
      font-size: 17px;
+     text-align: center;
+    color: #fafafa;
+    margin-top: 15px;
+    margin-bottom: 10px;
+    padding-right: 20px;
+}
+
+.blog2 p {
+    font-family: "Exo", sans-serif;
+    font-weight: 600;
+     font-size: 17px;
     color: #fafafa;
     margin-top: 15px;
     margin-bottom: 10px;
@@ -127,28 +147,30 @@ section p {
 }
 
 .contacts {
-    margin-left: 150px;
+   padding-top: 40px;
+   padding-right: 20px;
 }
 
+
+
 .grid-element {
-    padding: 10px;
-    background-color: #fafafa;
+  
     color: white;
-    text-align: center;
-    margin-bottom: 50px; 
-    margin-left: 20px;
+    
 	          
 }
+
 
 .grid-element p {
     color: #000;
 }
 
-
-
-
-
-
+.contacts a {
+    font-family: "Exo", sans-serif;
+    font-weight: 400;
+    font-size: 20px;
+    color: #fafafa;
+}
 
 .list-block a {
     font-family: "Exo", sans-serif;
@@ -163,9 +185,14 @@ section p {
 
 /*-----------------------------------Social*/
 
-.social-links  {
+.social-links   {
     margin-left: 0px;
     text-align: right;
+}
+
+.social-links2   {
+    margin-left: 0px;
+    text-align: left;
 }
 
 .fa {
@@ -234,13 +261,7 @@ section p {
 }
 
 
-.social-links2 i {
-    color: #fafafa;
-    font-size: 20px;
-    padding-top: 8px;
-    padding-left: 0px;
-    margin: 0;
-}
+
 
 /*-----------------------------------Social*/
 
@@ -250,6 +271,10 @@ section p {
     padding-left: 40px;
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.logo {
+    float: left;
 }
 
 .logo3 {
@@ -265,7 +290,7 @@ section p {
 
 .image2 {
     width: 25%;
-    height: 25%;
+    
     display: block;
     margin-left: auto;
     margin-right: auto;
@@ -273,11 +298,17 @@ section p {
 
 }
 
+.top {
+    text-align: center;
+    padding-top: 20px;
+}
+
 .bg-photo {
-    position: relative;
+    
     text-align: center;
     color: white;
-   ;
+    margin-top: 20px;
+   
     padding-bottom: 20px;
 }
 
@@ -306,8 +337,8 @@ section p {
 
 /*-----------------------------------Logo's & Images and Hovers*/
 
-.big-photo {
-    padding-right: 20px;
+.my-photo {
+    padding-top: 20px;
 }
 
 .small-photo {
@@ -339,7 +370,8 @@ section p {
  /*------------------------------------------Footer*/
  
 footer {
-    background-color: #67665B  ;
+    background-color: #67665B;
+    border-radius: 10%;
     
    
 }
@@ -393,6 +425,12 @@ footer {
   
   @media(min-width: 992px) {
       .big-photo {
+          margin-right: 30px;
+      }
+  }
+  
+  @media(max-width: 767px) {
+      .top{
           margin-right: 30px;
       }
   }
