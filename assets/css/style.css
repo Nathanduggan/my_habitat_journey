@@ -1,4 +1,5 @@
-@import url('https://fonts.googleapis.com/css?family=Indie+Flower:100,200,300,400,500,600,700|Exo:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Indie+Flower');100,200,300,400,500,600,700|:100,200,300,400,500,600,700');
+@import url('https://fonts.googleapis.com/css?family=Libre+Franklin');100,200,300,400,500,600,700|:100,200,300,400,500,600,700');
 
 
 /*---------------------------------------Body*/
@@ -14,7 +15,7 @@ article {
 
 body {
     
-    background-color: #ECF0F1;
+    background-color: #FDFEFE;
     
 }
 
@@ -30,7 +31,7 @@ h4 {
 }
 
 .nav {
-    font-family: "Exo" sans-serif;
+    font-family: Libre Franklin sans-serif;
     font-weight: 300;
     font-size: 20px;
 }
@@ -44,13 +45,13 @@ h4 {
     position: relative;
     text-align: center;
     margin-top: 20px;
-    margin-bottom: 20px;
+    padding-bottom: 30px;
     color: #283747;
 }
 
 .read-me {
     color: red;
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 400;
     font-size: 18px;
     
@@ -117,14 +118,14 @@ h4 {
 
 
 .blog {
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 300;
     color: #fafafa;
     font-size: 45px;
 }
 
 .blog2 {
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 600;
      font-size: 17px;
      text-align: center;
@@ -135,7 +136,7 @@ h4 {
 }
 
 .blog2 p {
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 600;
      font-size: 17px;
     color: #fafafa;
@@ -153,16 +154,22 @@ h4 {
 
 
 .header {
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 300;
     color: #fafafa;
     margin-top: 20px;
 }
 
 .header-subhead {
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 200;
     font-size: 15px;
+}
+
+.gal-header {
+     color: #000;
+    text-align: center;
+    padding-top: 20px;
 }
 
 
@@ -177,12 +184,12 @@ section p {
 }
 
 .para {
+    font-family: Libre Franklin, sans-serif;
+    font-weight: 200;
+    font-size: 15px;
     color: #283747;
+    margin-top: 20px;
 }
-
-
-
-
 
 .grid-element p {
     color: #283747;
@@ -191,14 +198,14 @@ section p {
 }
 
 .contacts a {
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 400;
     font-size: 20px;
     color: #fafafa;
 }
 
 .list-block a {
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 400;
     font-size: 20px;
     color: #fafafa;
@@ -207,32 +214,39 @@ section p {
 
 .text-uppercase {
     padding-left: 40px;
-    font-family: "Exo", sans-serif;
+    font-family: Libre Franklin, sans-serif;
     font-weight: 700;
     font-size: 30px;
 }
 
 .testimonial p {
+    font-family: Indie Flower, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
     color: #283747;
+    padding-top: 20px;
     padding-left: 20px;
     padding-bottom: 20px;
 }
 
 .testimonial2 p {
+    font-family: Indie Flower, sans-serif;
+    font-weight: 500;
+    font-size: 22px;
     color: #283747;
     padding-left: 20px;
     padding-bottom: 20px;
-    padding-top: 20px;
+    margin-top: 20px;
 }
 
 .media-object {
-    padding-bottom: 20px;
+    margin-bottom: 20px;
 }
 
 
-.media-object2 {
-    padding-top: 20px;
-}
+
+
+
 
 
     
@@ -396,6 +410,10 @@ section p {
     padding-top: 20px;
 }
 
+.big-photo {
+    padding-bottom: 20px;
+}
+
 
 .my-photo {
     padding-top: 20px;
@@ -407,7 +425,7 @@ section p {
     text-align: center;
 }
 .nav {
-    font-family: "Exo" sans-serif;
+    font-family: Libre Franklin sans-serif;
     font-weight: 300;
     font-size: 20px;
 }
@@ -425,18 +443,16 @@ section p {
 .vid-header {
         position: relative;
     text-align: center;
-    color: white;
+    color: #000;
     
 }
  
  /*------------------------------------------Footer*/
  
- article {
-     padding-bottom: 20px;
- }
+
 footer {
     background-color: #000;
-    border-radius: 10%;
+    
     padding-top: 20px;
     
    
@@ -444,7 +460,7 @@ footer {
 
 
 .copy-right {
-    margin-left: 60px;
+    margin-left: 20px;
 }
  
   /*------------------------------------------Footer*/
@@ -464,9 +480,11 @@ footer {
       }
   }
   
-  @media(min-width: 992px) {
-      footer {
-          width: 100%;
+  @media(min-width: 365px) {
+       contacts {
+           text-align: center;
+           color: red;
+          
       }
   }
   
