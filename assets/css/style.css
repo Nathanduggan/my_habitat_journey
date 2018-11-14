@@ -42,12 +42,13 @@ h4 {
     
 }
 .change {
-    position: relative;
+    
     text-align: center;
-    margin-top: 20px;
+    Padding-top: 20px;
     padding-bottom: 30px;
     color: #283747;
 }
+
 
 .read-me {
     color: red;
@@ -56,6 +57,8 @@ h4 {
     font-size: 18px;
     
 }
+
+
 
 .about {
     color: #283747;
@@ -88,7 +91,7 @@ h4 {
 }
 
 .newsletter {
-    margin-top: 10px;
+    margin-top: 20px;
     margin-bottom: 20px;
     color: #283747;
 }
@@ -131,7 +134,7 @@ h4 {
      text-align: center;
     color: #283747;
     margin-top: 15px;
-    margin-bottom: 10px;
+    margin-bottom: 20px;
     padding-right: 20px;
 }
 
@@ -169,8 +172,9 @@ h4 {
 .gal-header {
      color: #000;
     text-align: center;
-    padding-top: 20px;
+    padding-top: 10px;
 }
+
 
 
 
@@ -186,9 +190,10 @@ section p {
 .para {
     font-family: Libre Franklin, sans-serif;
     font-weight: 200;
-    font-size: 15px;
+    font-size: 17px;
     color: #283747;
     margin-top: 20px;
+    padding-bottom: 10px;
 }
 
 .grid-element p {
@@ -254,8 +259,9 @@ section p {
 /*-----------------------------------Social*/
 
 .social-links   {
+    margin-bottom: 40px;
     margin-left: 0px;
-    text-align: right;
+    text-align: center;
 }
 
 .social-links2   {
@@ -335,10 +341,37 @@ section p {
 
 /*-----------------------------------Logo's & Images*/
 
+.navbar-nav a {
+    letter-spacing: 5px;
+    font-size: 20px;
+    background-color: #1B2631;
+    color: #fafafa;
+   
+}
+
+.navbar-collapse {
+    color: #212F3C;
+}
+
+
+
+.navbar-header{
+    background-color: #212F3C;
+}
+
+.navbar-fixed-top {
+    background-color: #1B2631;
+}
+
 #logo2 {
     padding-left: 40px;
     padding-top: 30px;
     padding-bottom: 30px;
+}
+
+.logo1 {
+    text-align: center;
+    margin-top: 35px;
 }
 
 .logo {
@@ -352,8 +385,8 @@ section p {
 
 .image {
     text-align: center;
-    margin-bottom: 20px;
-    border-radius: 50%;
+    margin-bottom: 40px;
+    
 }
 
 .image2 {
@@ -376,13 +409,19 @@ section p {
     text-align: center;
     color: white;
     margin-top: 20px;
-   
+    margin-bottom: 50px;
     padding-bottom: 20px;
+}
+
+iframe {
+     height: 500px; 
+    width: 400px;
 }
 
 .btn-default {
     background-color: #07A2FE;
     color: #fafafa;
+    
 }
 
 .btn-default:hover {
@@ -390,11 +429,7 @@ section p {
     color: #07a2fe;
 }
 
-.btn-primary {
-    margin-top: 10px;
-    margin-bottom: 30px;
-    margin-left: 20px;
-}
+
 
 .btn-primary:hover {
     background-color: #fafafa;
@@ -411,7 +446,8 @@ section p {
 }
 
 .big-photo {
-    padding-bottom: 20px;
+    margin-bottom: 50px;
+    padding-top: 20px;
 }
 
 
@@ -480,7 +516,7 @@ footer {
   }
   
   @media(min-width: 365px) {
-       contacts {
+       contacts a {
            text-align: center;
            color: red;
           
@@ -525,6 +561,7 @@ footer {
       }
   }
   
+
 
   
  

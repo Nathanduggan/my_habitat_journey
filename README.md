@@ -1,9 +1,10 @@
-Path To Malawi 2019
-/*-------------------------Over view of what my Project is*/
+Path To Malawi 2019 with Habitat for Humanity
 
-One or two paragraphs providing an overview of your project.
-/*-------------------------Over view of what my Project is*/
-Essentially, this part is your sales pitch.
+When deciding upon the purpose of my website, I thought it would be useful to create something that I can use in the future. As stated in the website, I am planning to travel to Malawi in August 2019 to volunteer with a charity called Habitat for Humanity Ireland.  Therefore, I decided to create a site that provides information on what I’m doing whilst encouraging users to donate to Habitat for Humanity Ireland. The Home page is focused upon my intention to volunteer with Habitat and what I will do while in Malawi. There is also a small section about the charity that I’m volunteering with. There is only a small amount of information on the home page but an option to find out more is provided with the inclusion of a “Read More” button which leads the user to a separate page, entitled ‘About HFH’.  This allows the user to receive some initial information whilst encouraging them to explore the site further. 
+To find out further information on Habitat’s work the user can click “Read more” or scroll to the second tab on the navigation bar. The user can also use the footer to navigate to the ‘About HFH’ page or any other page on the site.  The ‘About HFH’  page is separated into different sub headings including “About Habitat”, “What they do”, “Their principles and values” and “Who they help”. The concept behind the formation of this page was based on the fact that prospective donors will want to know more about the charity, before they decide to contribute. 
+The third tab on the navigation bar is linked to a ‘Testimonials’ page. As the website is designed to promote my proposed volunteer trip, I thought it would be a good idea to share the perspectives of other people who have built with Habitat for Humanity in Malawi. I asked my girlfriend and her team leader to share their views on their trip that took place in summer 2018. The thought process behind the inclusion of this page is that people may be more likely to donate if they feel as though I’m doing something worthwhile. 
+The fourth tab on the navigation bar is entitled ‘Video’. I included this page as I know that users may find it more appealing to use an audio visual aid to gain information, rather than simply reading written material. I included two videos that discuss the work that Habitat for Humanity is doing in Malawi. Both videos provide an insight into the impact that a new home can have upon the lives of orphaned and vulnerable families. 
+
 
 UX
 Use this section to provide insight into your UX process, focusing on who this website is for, what it is that they want to achieve and how your project is the best way to help them achieve these things.
