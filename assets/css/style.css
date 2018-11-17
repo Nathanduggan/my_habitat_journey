@@ -202,12 +202,7 @@ section p {
     padding-bottom: 20px;
 }
 
-.contacts a {
-    font-family: Indie Flower, sans-serif;
-    font-weight: 400;
-    font-size: 25px;
-    color: #fafafa;
-}
+
 
 .list-block a {
     font-family: Libre Franklin, sans-serif;
@@ -271,7 +266,8 @@ section p {
 /*-----------------------------------Social*/
 
 .social-links   {
-    margin-bottom: 10px;
+    padding-top: 50px;
+    margin-bottom: 0px;
     margin-left: 0px;
     text-align: right;
 }
@@ -375,6 +371,7 @@ section p {
 
 .navbar-fixed-top {
     background-color: #1B2631;
+    padding-left: 40px;
 }
 
 #logo2 {
@@ -385,7 +382,8 @@ section p {
 
 .logo1 {
     text-align: left;
-    margin-top: 45px;
+    margin-top: 0px;
+    margin-bottom: 20px;
 }
 
 .logo {
@@ -502,8 +500,35 @@ iframe {
 
 footer {
     background-color: #000;
-    padding-top: 30px;
+    padding-top: -10px;
     
+}
+
+.donate2 {
+    font-family: Indie Flower, sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    color: #fafafa;
+    list-style-type: none;
+    margin-top: 35px;
+    
+}
+
+.links a {
+     font-family: Indie Flower, sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    color: #fafafa;
+    padding-top : 35px;
+    padding-left: 45px;
+}
+
+.contacts a {
+    font-family: Indie Flower, sans-serif;
+    font-weight: 400;
+    font-size: 28px;
+    color: #fafafa;
+    padding-left: 20px;
 }
 
 
@@ -529,13 +554,7 @@ footer {
       }
   }
   
-  @media(min-width: 365px) {
-       contacts a {
-           text-align: center;
-           color: red;
-          
-      }
-  }
+
   
  
   

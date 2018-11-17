@@ -45,7 +45,7 @@ The Second \*------------------------Finish*/.
 
 ## Testing.
 
-##### Navigation Bar:
+##### Navigation Bar: (Applies to all Pages)
    - Go to the Home page. 
    - Hover over the word 'About HFH' The letters will change color, Next click on the Work 'About HFH' You will be brought to the Page.
    - Go back to the home page and perform the same steps on the 'Testimonials', 'Gallery' and 'Videos' Tabs making sure they all link to the correct pages and back again.
@@ -56,7 +56,41 @@ The Second \*------------------------Finish*/.
     - Go to the top of the Home page. Click on each of the Social media Links and see that they
     - go to the correct sites. Next hover over them and they should increase in size.
     - Repect these steps on each Page and also on the Footer of each Page.
-    - 
+    
+##### The Logo:
+    - Go to the Home page and Navigate to any page and click the Logo and it 
+      should bring you back to the Home page from another other page. 
+##### The Read more button:
+    - Go to the Home page and scroll down to the 'HFH, What they do?' Click the read more button
+      and it will bring you to the About HFH Page. Also hover over it and it will change color.
+##### Sign up form:
+    - Go to Home page and scroll down to the Sign up for Newsletter.
+    - Type in your name. If nothing in entered an error will come after you click the sign up Button.
+    - Type your email. Again an error will pop up if nothing is entered or if the '@' Symbol isn't included.
+    - Hover over the Sign up Button and it changes color. 
+
+##### The Footer: (Applies to ever Page)
+     - Go to home page, scrool down to the footer, Click on the Logo and it will bring you back to the Home page,
+       from what ever page you are on. 
+     - Click on the Home, testimonials, About HFH or Gallery button and they will take you to their
+       respective pages.
+     - Social links, same as explained above.   
+    
+##### Videos Page:
+     - Go to the Videos page.
+     - Click on each video and the video should start playing, 
+       you can also, pause, change volume, share video on social media and even view video on the Youtube Site. 
+       
+       
+## How it looks on different screen sizes and browsers:
+   - Mobile: The pages fit in nicely, '375 X 667' The Navigation bar is changed to a Hamburger drop down.
+   - Everything else fits in a 'Col-xs-12' Grid including the Footer 
+   - Tested Sign up form and Links in footer and Read more button and all Works.
+   - Tablet: Fits nicely again '768 X 1024' The Navigation stays the same as Desktop screen.
+   - The Footer Links are indented inwards and I Have hidden some text on Mobile and Tablet Screens and display purposes.
+   - All Videos and Photos fit in and text, all of which are centered.
+   - I have tested all screens on multiple Browsers, including,
+     Google Chrome, Safari, Firefox and Internet Explorer.
 
 /*--------------------------------------------- Continue Here*/
 
