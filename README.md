@@ -1,13 +1,13 @@
 # My Habitat Journey
 
-## The User's h2
+## The User's
 
 When deciding upon the purpose of my website, I thought it would be useful to create something that I can use in the future. As stated in the website, I am planning to travel to Malawi in August 2019 to volunteer with a charity called Habitat for Humanity Ireland.  Therefore, I decided to create a site that provides information on what I’m doing whilst encouraging users to donate to Habitat for Humanity Ireland. The Home page is focused upon my intention to volunteer with Habitat and what I will do while in Malawi. There is also a small section about the charity that I’m volunteering with. There is only a small amount of information on the home page but an option to find out more is provided with the inclusion of a “Read More” button which leads the user to a separate page, entitled ‘About HFH’.  This allows the user to receive some initial information whilst encouraging them to explore the site further. 
 To find out further information on Habitat’s work the user can click “Read more” or scroll to the second tab on the navigation bar. The user can also use the footer to navigate to the ‘About HFH’ page or any other page on the site.  The ‘About HFH’  page is separated into different sub headings including “About Habitat”, “What they do”, “Their principles and values” and “Who they help”. The concept behind the formation of this page was based on the fact that prospective donors will want to know more about the charity, before they decide to contribute. 
 The third tab on the navigation bar is linked to a ‘Testimonials’ page. As the website is designed to promote my proposed volunteer trip, I thought it would be a good idea to share the perspectives of other people who have built with Habitat for Humanity in Malawi. I asked my girlfriend and her team leader to share their views on their trip that took place in summer 2018. The thought process behind the inclusion of this page is that people may be more likely to donate if they feel as though I’m doing something worthwhile. 
 The fourth tab on the navigation bar is entitled ‘Video’. I included this page as I know that users may find it more appealing to use an audio visual aid to gain information, rather than simply reading written material. I included two videos that discuss the work that Habitat for Humanity is doing in Malawi. Both videos provide an insight into the impact that a new home can have upon the lives of orphaned and vulnerable families. 
 
-### Features h3
+### Features
 #### The Home Page:
 The Home page has been designed to inform users all they need to know about my trip.
 Straight away user will see my Logo. They will also see Links to varies social media sights where they can get even more up to date information.
@@ -91,6 +91,31 @@ The Second \*------------------------Finish*/.
    - All Videos and Photos fit in and text, all of which are centered.
    - I have tested all screens on multiple Browsers, including,
      Google Chrome, Safari, Firefox and Internet Explorer.
+## Deployment: 
+    - I deployed ny project on Github.
+    - I First ran a git init, and started to track my files/images 
+      and committed them and than Pushed them up to Github,
+      Where they all open and load with no issues. 
+## Contents:
+   - The first image on the Home page and the Text below it where both taking and written by myself.
+   - Half of the Logo was copied from the Habitat Website: https://www.habitatireland.ie/.
+   - The image below the text was obtained from Natasha Thompson (Voulunteer from 2018)
+   - The text from the read more section was copied from The Habitat Ireland Website: https://www.habitatireland.ie/.
+   - The content from the About HFH Page was also copied from the Habitat Ireland Website: https://www.habitatireland.ie/.
+   - The first Testimonial was obtained from Natasha Thompson and the second was obtained from Sinead Kelly.
+   - Both Videos where copied from Youtube.
+## Images:
+   - All Images from the Gallery were obtained from Natasha Thompson: 
+     https://www.instagram.com/tasha_oobien/?hl=en.
+
+
+## Acknowledgment: 
+     I received inspiration for this project from my Girlfriend Tash. 
+     Tash volunteered with Habitat for Humanity last year and having seen 
+     Her struggle with fundraising
+     I thought it would be good to create a site that would /*-amalgamake-*/ 
+     information on Habitat's work
+     whilst promoting my fundraising journey. 
 
 /*--------------------------------------------- Continue Here*/
 
