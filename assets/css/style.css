@@ -544,7 +544,7 @@ footer {
 .links a {
      font-family: Indie Flower, sans-serif;
     font-weight: 400;
-    font-size: 28px;
+    font-size: 26px;
     color: #fafafa;
     padding-top : 35px;
     padding-left: 45px;
@@ -618,6 +618,12 @@ footer {
   @media(min-width: 992px) {
       .main {
           padding-left: 50px;
+      }
+  }
+  
+  @media(min-width: 992px ) {
+      .links {
+          text-align: left;
       }
   }
   
