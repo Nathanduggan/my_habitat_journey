@@ -116,7 +116,11 @@ h4 {
 
 
 .vision {
+    font-family: Libre Franklin, sans-serif;
+    font-weight: 300;
+    font-size: 15px;
     color: #283747;
+    padding-bottom: 20px;
 }
 
 .form-inline {
@@ -212,8 +216,12 @@ section p {
 }
 
 .grid-element p {
+    font-family: Libre Franklin, sans-serif;
+    font-weight: 700;
+    font-size: 15px;
     color: #283747;
-    padding-top: 20px;
+    padding-left: 20px;
+    padding-top: 0px;
     padding-bottom: 20px;
 }
 
@@ -232,10 +240,23 @@ section p {
 }
 
 .text-uppercase {
-    padding-left: 40px;
+    text-align: left;
+    padding-left: 0px;
+    padding-bottom: 20px;
     font-family: Libre Franklin, sans-serif;
     font-weight: 700;
     font-size: 30px;
+    color: #797D7F;
+}
+
+.read {
+     text-align: center;
+    padding-left: 0px;
+    padding-bottom: 20px;
+    font-family: Libre Franklin, sans-serif;
+    font-weight: 700;
+    font-size: 30px;
+    color: #797D7F;
 }
 
 .testimonial p {
@@ -410,7 +431,8 @@ section p {
 .logo1 {
     text-align: left;
     margin-top: 0px;
-    margin-bottom: 20px;
+    margin-bottom: 60px;
+    margin-right: 20px;
 }
 
 .logo {
@@ -515,13 +537,7 @@ iframe {
     color: #fafafa;
 }
 
-.vid-header {
-        position: relative;
-    text-align: left;
-    color: #000;
-    
-}
- 
+
  /*------------------------------------------Footer*/
  
 
