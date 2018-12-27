@@ -51,7 +51,9 @@ The Second \is a video that depicts how a Habitat Home can instil hope for famil
    - Click on the Donation button, it will change colour to 'White'.
    
 ##### Social Links:
-    - Go to the top of the Home page. Click on each of the Social media Links and see that they go to the correct sites. Next hover over them and they should increase in size.
+    - Go to the top of the Home page. Click on each of the Social media Links and see that they 
+       go to the correct sites. 
+    Next hover over them and they should increase in size.
     - Repeat these steps on each Page and on the Footer of each Page.
     
 ##### The Logo:
@@ -63,17 +65,21 @@ The Second \is a video that depicts how a Habitat Home can instil hope for famil
 ##### Sign up form:
     - Go to Home page and scroll down to the Sign up for Newsletter.
     - Type in your name. If nothing is entered an error will come after you click the sign-up Button.
-    - Type your email. Again an error will pop up if nothing is entered or if the '@' Symbol isn't included.
+    - Type your email. Again an error will pop up if nothing is entered or if the '@' Symbol isn't
+       included.
     - Hover over the Sign-up Button and it changes colour.
 
 ##### The Footer: (Applies to ever Page)
-     - Go to home page, scroll down to the footer, click on the Logo and it will bring you back to the Home page from whichever page you are on. 
-     - Click on the Home, Testimonials, About HFH, Video or Gallery button and they will take you to the respective pages.
+     - Go to home page, scroll down to the footer, click on the Logo and it will bring you back
+       to the Home page from whichever page you are on. 
+     - Click on the Home, Testimonials, About HFH, Video or 
+       Gallery button and they will take you to the respective pages.
      - Social links, same as explained above.   
     
 ##### Videos Page:
      - Go to the Videos page.
-     - Click on each video and the video should start playing.  You can also pause, change volume, share video on social media and view video on the YouTube Site. 
+     - Click on each video and the video should start playing.  You can also pause, change volume, 
+       share video on social media and view video on the YouTube Site. 
        
        
 ## How it looks on different screen sizes and browsers:
@@ -87,7 +93,8 @@ The Second \is a video that depicts how a Habitat Home can instil hope for famil
      Google Chrome, Safari, Firefox and Internet Explorer.
 ## Deployment: 
     - I deployed my project on Github.
-    - I first ran a git init and started to track my files/images and committed them and then pushed them up to Github, were they all open and load with no issues. 
+    - I first ran a git init and started to track my files/images and committed them and then 
+      pushed them up to Github, were they all open and load with no issues. 
 ## Contents:
    - The first image on the Home page was taken by Natasha Thompson for the purposes of this project. The text below it was written by me.
    - Half of the Logo was copied from the Habitat Website: https://www.habitatireland.ie/.
@@ -102,8 +109,16 @@ The Second \is a video that depicts how a Habitat Home can instil hope for famil
 
 
 ## Acknowledgment: 
-     I received inspiration for this project from my partner Natasha Thompson (Tash). Tash volunteered with Habitat for Humanity last year and having seen her struggle with fundraising I thought it would be a good idea to create a site that would amalgamate information on Habitat’s work whilst promoting my fundraising journey. Prior to the commencement of this project I felt very nervous about the prospect of fundraising, but I genuinely believe that this site will help me to reach out to more people and reach my target. 
-     I also wish to acknowledge the contribution of last year’s team leader, Sinead Kelly. Her insight and enthusiasm are very much appreciated. 
+     I received inspiration for this project from my partner Natasha Thompson (Tash). Tash volunteered 
+     with Habitat for Humanity last year and having seen her struggle with fundraising 
+     I thought it would be a good idea to create a site that 
+     would amalgamate information on Habitat’s work whilst promoting 
+     my fundraising journey. Prior to the commencement of this project I felt very nervous 
+     about the prospect of fundraising, but I genuinely believe that this site
+     will help me to reach out to more people and reach my target. 
+     I also wish to acknowledge the contribution of last year’s team leader, Sinead Kelly. 
+     Her insight and enthusiasm are very much appreciated. 
      I would also like to thank my mentor Guido . His support throughout has been of great assistance. 
-     Lastly, I would like to acknowledge my dad who encouraged me to start this course in the pursuit of bettering my career prospects. 
+     Lastly, I would like to acknowledge my dad who encouraged me to start this course in the 
+     pursuit of bettering my career prospects. 
 
