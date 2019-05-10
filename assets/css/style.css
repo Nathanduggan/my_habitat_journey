@@ -69,6 +69,23 @@ h4 {
     
 }
 
+.navbar-nav a {
+    font-family: Libre Franklin, sans-serif;
+    font-weight: 700;
+    letter-spacing: 5px;
+    font-size: 18px;
+    background-color: #1B2631;
+    color: #fafafa;
+    
+}
+
+.navbar-collapse {
+    color: #212F3C;
+}
+
+.nav .current {
+    background-color: #ECF0F1;
+}
 
 
 .about {
@@ -302,7 +319,7 @@ section p {
 /*-----------------------------------Social*/
 
 .social-links   {
-    padding-top: 50px;
+    padding-top: 60px;
     margin-bottom: 0px;
     margin-left: 0px;
     text-align: right;
@@ -480,7 +497,7 @@ iframe {
 
 .btn-default {
     background-color: #07A2FE;
-    color: #fafafa;
+    color: #07A2FE;
     
 }
 
