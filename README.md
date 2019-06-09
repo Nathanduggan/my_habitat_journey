@@ -94,9 +94,7 @@ The Second \is a video that depicts how a Habitat Home can instil hope for famil
    - I have tested all screens on multiple Browsers, including,
      Google Chrome, Safari, Firefox and Internet Explorer.
 ## Deployment: 
-    - I deployed my project on Github.
-    - I first ran a git init and started to track my files/images and committed them and then 
-      pushed them up to Github, were they all open and load with no issues. 
+   The website has been deployed using Github Pages (https://pages.github.com/.
 ## Contents:
    - The first image on the Home page was taken by Natasha Thompson for the purposes of this project. The text below it was written by me.
    - Half of the Logo was copied from the Habitat Website: https://www.habitatireland.ie/.
